@@ -1,0 +1,15 @@
+{
+  "name": "dr_project/pdfGenerator",
+  "description": "Generates a PDF based on Twig stuff",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ryan Collins",
+      "email": "ryan@ohmgeek.co.uk"
+    }
+  ],
+  "require": {
+    "knplabs/knp-snappy-bundle": "v1.4"
+  }
+}
